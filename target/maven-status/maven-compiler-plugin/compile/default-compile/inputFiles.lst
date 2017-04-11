@@ -1,0 +1,8 @@
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/dao/EmployeeDAO.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/config/EmployeeDataSourceConfig.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/config/EmployeeConfig.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/util/DevDatabaseUtil.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/util/DataSource.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/util/ProductionDatabaseUtil.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/service/EmployeeService.java
+/home/massimiliano/spring/Spring4.0Profiles/src/main/java/com/javapapers/spring4/domain/Employee.java

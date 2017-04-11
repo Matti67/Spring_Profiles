@@ -1,0 +1,8 @@
+com/javapapers/spring4/domain/Employee.class
+com/javapapers/spring4/config/EmployeeConfig.class
+com/javapapers/spring4/dao/EmployeeDAO.class
+com/javapapers/spring4/config/EmployeeDataSourceConfig.class
+com/javapapers/spring4/util/DataSource.class
+com/javapapers/spring4/util/ProductionDatabaseUtil.class
+com/javapapers/spring4/service/EmployeeService.class
+com/javapapers/spring4/util/DevDatabaseUtil.class
